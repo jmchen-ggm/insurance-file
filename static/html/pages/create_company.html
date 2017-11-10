@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>上传文件测试</title>
+	<title>创建公司</title>
 </head>
 <body>
-	<form enctype="multipart/form-data" action="http://127.0.0.1:9090/upload" method="post">
-	<div>文章名字</div>
-	<div><input type="text" name="title" /></div>
-	<div>文章描述</div>
+	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/company" method="POST">
+	<div>公司名字</div>
+	<div><input type="text" name="name" /></div>
+	<div>公司描述</div>
 	<div><input type="text" name="desc" /></div>
-	<div>文章封面</div>
+	<div>公司封面</div>
  	<div><input type="file" name="uploadfile" /></div>
- 	<div>文章链接</div>
- 	<div><input type="text" name="url" /></div>
- 	<div><input type="submit" value="创建文章" /></div>
+ 	<div><input type="submit" value="创建公司" /></div>
 </form>
 </body>
 </html>
