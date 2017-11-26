@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>上传文件测试</title>
+	<title>创建保险</title>
+	<style type="text/css">
+		@import"../css/home.css"
+	</style>
 </head>
 <body>
 	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/insurance" method="POST">
 	<div>保险名称（中文）</div>
-	<div><input type="text" name="nameZHCN" /></div>
+	<div><textarea type="text" name="nameZHCN" cols="100" rows="1"></textarea></div>
 	<div>保险名称（英文）</div>
-	<div><input type="text" name="nameEN" /></div>
+	<div><textarea type="text" name="nameEN" cols="100" rows="1"></textarea></div>
 	<div>保险描述</div>
- 	<div><input type="text" name="desc" /></div>
+ 	<div><textarea type="text" name="desc" cols="100" rows="3"></textarea></div>
  	<div>保险公司ID</div>
- 	<div><input type="number" name="companyId" /></div>
+ 	<div><textarea type="number" name="companyId" cols="100" rows="1"></textarea></div>
  	<div>保险缩略图</div>
  	<div><input type="file" name="uploadfile" /></div>
  	<div><input type="submit" value="创建保险" /></div>

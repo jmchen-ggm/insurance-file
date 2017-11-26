@@ -2,13 +2,16 @@
 <html>
 <head>
 	<title>创建公司</title>
+	<style type="text/css">
+		@import"../css/home.css"
+	</style>
 </head>
 <body>
-	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/company" method="POST">
+	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/company" method="POST" class="form-body">
 	<div>公司名字</div>
-	<div><input type="text" name="name" /></div>
+	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
 	<div>公司描述</div>
-	<div><input type="text" name="desc" /></div>
+	<div><textarea type="text" name="desc" cols="100" rows="3"></textarea></div>
 	<div>公司封面</div>
  	<div><input type="file" name="uploadfile" /></div>
  	<div><input type="submit" value="创建公司" /></div>
