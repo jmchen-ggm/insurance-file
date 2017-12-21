@@ -113,6 +113,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #8b86a3, #322e40);
+ /* background: linear-gradient(to left, #4E5E82, #050B17);*/
   opacity: 0.8;
 }
 #slider .block {
@@ -134,7 +135,7 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 3px;
 }
 /*--
-	wrapper Start 
+	wrapper Start
 --*/
 #intro {
   padding: 100px 0;
@@ -357,7 +358,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start 
 --*/
 #global-header {
-  background: url("../img/slider-bg2.jpg") no-repeat;
+  background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
