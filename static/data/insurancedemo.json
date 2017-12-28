@@ -1,0 +1,111 @@
+{
+  "InsuranceSpecies": [
+    {
+      "Name": "高端医疗",
+      "id": 1
+    },
+    {
+      "Name": "储蓄型危疾",
+      "id": 2
+    },
+    {
+      "Name": "储蓄型人寿",
+      "id": 3
+    },
+    {
+      "Name": "个人意外",
+      "id": 4
+    }
+  ],
+  "InsuranceCompany": [
+    {
+      "Name": "法国安盛公司",
+      "EnglishName": "AXA",
+      "BuildTime": 1816,
+      "Website": "http://www.axa.com/",
+      "Introduction": "法国安盛公司（AXA）是全球最大的保险集团。起初是众多互助型保险公司的机械联合企业，但现在它是当今世界上最大的一家保险公司（同德国Allianz 和荷兰ING一样），也是一个资产管理巨头。AXA在美国有子公司安盛金融公司（AXA Financial），该子公司持有联合资产管理公司（Alliance Capital Management）的绝大多数股份；同时在海外其它地方都有众多子公司。",
+      "Id": 1,
+      "Img":"img/companys/C1.jpg"
+    },
+    {
+      "Name": "美国友邦保险有限公司",
+      "EnglishName": "American International Assurance Co",
+      "BuildTime": 1919,
+      "website": "http://www.aia.com/",
+      "Introduction": "美国友邦保险有限公司 （简称“友邦保险”或“AIA”）是美国国际集团（AIG）的全资附属公司，自1931年在上海创立以来，已服务亚洲地区的广大客户七十多年之久。",
+      "id": 2,
+      "Img":"img/companys/C2.jpg"
+    },
+    {
+      "Name": "英国保诚集团",
+      "EnglishName": "Prudential",
+      "BuildTime": 1848,
+      "website": "http://www.prudential.co.uk/",
+      "Introduction": "英国保诚集团在1848年创立，当时命名为英国保诚投资信贷保险公司（Prudential Investment, Loan, and Assurance Company)，业务以人寿保险为主。英国保诚保险成立后，业务迅速发展，1890年初，便成为了英国最大的人寿保险公司，为英国人民提供周全的保障，至今仍傲踞榜首。 在二十年代，英国保诚集团业务扩展到亚洲、欧洲、加拿大、新西兰及澳洲等地，服务网络遍布全世界。",
+      "id": 3,
+      "Img":"img/companys/C3.jpg"
+    },
+    {
+      "Name": "加拿大永明金融集团",
+      "EnglishName": "Sun Life Financial Services",
+      "BuildTime": 1865,
+      "website": "https://www.sunlife.com.hk/",
+      "Introduction": "加拿大永明金融集团（Sun Life Financial Services）于1865年注册成立。加拿大永明在世界各地为个人和公司客户提供广泛的储蓄、退休、养老金、人寿和健康等保险产品和服务，主要业务遍及加拿大、美国、英国和亚太地区，在世界二十多个重要市场设有办事机构，积极开展业务。加拿大永明金融是主要的国际金融服务机构，为个人及企业客户提供各类理财及保障的产品和服务。",
+      "id": 4,
+      "Img":"img/companys/C4.jpg"
+    },
+    {
+      "Name": "美国信诺保险集团",
+      "EnglishName": "CIGNA",
+      "BuildTime": 1982,
+      "website": "https://www.cigna.com/",
+      "Introduction": "美国信诺保险集团是总部设在美国的第二大国际工商保险公司，是当今世界有关保险和金融服务的主要提供者之一，服务对象包括美国与全球的个人和企业。它的前身是成立于1865年的康涅狄格大众人寿保险公司和建立于1792年的北美保险公司（美国第一家股份制保险公司）。",
+      "id": 5,
+      "Img":"img/companys/C5.png"
+    }
+  ],
+  "InsuranceProducts": [
+    {
+      "Name": "友邦附加万里无忧意外伤害保险",
+      "Company": "美国友邦保险有限公司",
+      "Type": "个人意外",
+      "AgeLimit":  "7天-70岁",
+      "TimeLimit": "至105岁",
+      "MoneyMin":  "500万",
+      "MoneyMax":  "1亿"
+    },
+    {
+      "Name": "友邦全佑至珍旗舰版康爱智多保计划",
+      "Company": "美国友邦保险有限公司",
+      "Type":"医疗保险",
+      "AgeLimit": "18岁-55岁",
+      "TimeLimit": "终身",
+      "MoneyMin": "6万",
+      "MoneyMax": "198万"
+    },{
+      "Name": "友邦日日无忧意外伤害保险",
+      "Company": "美国友邦保险有限公司",
+      "Type":"个人意外",
+      "AgeLimit": "18到60岁",
+      "TimeLimit": "一年",
+      "MoneyMin": "4000",
+      "MoneyMax": "500,000"
+    },{
+      "Name": "友邦传世经典乐享2017终身寿险（分红型）",
+      "Company": "美国友邦保险有限公司",
+      "Type":"储蓄型人寿",
+      "AgeLimit": "18-55岁",
+      "TimeLimit": "终身",
+      "MoneyMin": "",
+      "MoneyMax": "400万"
+    },{
+      "Name": "友邦全佑一生倍呵护旗舰版全能保计划",
+      "Company": "美国友邦保险有限公司",
+      "Type":"个人意外",
+      "AgeLimit": "7天至17岁",
+      "TimeLimit": "终身",
+      "MoneyMin": "10万",
+      "MoneyMax": "210万"
+    }
+  ]
+}
