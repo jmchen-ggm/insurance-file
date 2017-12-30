@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>创建保险</title>
+	<style type="text/css">
+		@import"../css/console.css"
+	</style>
+	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+</head>
+<body>
+	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/insurancetype" method="POST">
+	<div>保险类型名称</div>
+	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
+	<div>保险类型描述</div>
+ 	<div><textarea type="text" name="desc" cols="100" rows="1"></textarea></div>
+ 	<div>保险类型缩略图</div>
+ 	<div><input type="file" name="uploadfile" /></div>
+ 	<div><input type="submit" value="创建保险类型" /></div>
+</form>
+</body>
+</html>
