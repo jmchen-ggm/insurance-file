@@ -9,14 +9,16 @@
 </head>
 <body>
 	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/insurance" method="POST">
-	<div>保险名称（中文）</div>
-	<div><textarea type="text" name="nameZHCN" cols="100" rows="1"></textarea></div>
-	<div>保险名称（英文）</div>
-	<div><textarea type="text" name="nameEN" cols="100" rows="1"></textarea></div>
+	<div>保险名称</div>
+	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
 	<div>保险描述</div>
- 	<div><textarea type="text" name="desc" cols="100" rows="3"></textarea></div>
+ 	<div><textarea type="text" name="desc" cols="100" rows="1"></textarea></div>
  	<div>保险公司ID</div>
  	<div><textarea type="number" name="companyId" cols="100" rows="1"></textarea></div>
+ 	<div>保险类型ID</div>
+ 	<div><textarea type="number" name="insuranceTypeId" cols="100" rows="1"></textarea></div>
+ 	<div>保险详细信息(JSON)</div>
+ 	<div><textarea type="number" name="detailData" cols="100" rows="10"></textarea></div>
  	<div>保险缩略图</div>
  	<div><input type="file" name="uploadfile" /></div>
  	<div><input type="submit" value="创建保险" /></div>
