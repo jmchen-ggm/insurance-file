@@ -82,7 +82,8 @@
       "TimeLimit": "终身",
       "MoneyMin": "6万",
       "MoneyMax": "198万"
-    },{
+    },
+    {
       "Name": "友邦日日无忧意外伤害保险",
       "Company": "美国友邦保险有限公司",
       "Type":"个人意外",
@@ -90,20 +91,31 @@
       "TimeLimit": "一年",
       "MoneyMin": "4000",
       "MoneyMax": "500,000"
-    },{
+    },
+    {
       "Name": "友邦传世经典乐享2017终身寿险（分红型）",
       "Company": "美国友邦保险有限公司",
       "Type":"储蓄型人寿",
       "AgeLimit": "18-55岁",
       "TimeLimit": "终身",
-      "MoneyMin": "",
+      "MoneyMin": "无",
       "MoneyMax": "400万"
-    },{
+    },
+    {
       "Name": "友邦全佑一生倍呵护旗舰版全能保计划",
       "Company": "美国友邦保险有限公司",
       "Type":"个人意外",
       "AgeLimit": "7天至17岁",
       "TimeLimit": "终身",
+      "MoneyMin": "10万",
+      "MoneyMax": "210万"
+    },
+    {
+      "Name": "「享未來」人壽保障",
+      "Company": "法国安盛公司",
+      "Type":"储蓄型人寿",
+      "AgeLimit": "无",
+      "TimeLimit": "至100歲",
       "MoneyMin": "10万",
       "MoneyMax": "210万"
     }
