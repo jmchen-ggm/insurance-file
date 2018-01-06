@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
 	<title>创建保险</title>
 	<style type="text/css">
-		@import"../css/console.css"
+		@import"../css/console.css";
 	</style>
 	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 </head>
 <body>
+    <br>
+    <h1>添加新保险</h1>
+    <br>
 	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/insurance" method="POST">
 	<div>保险名称</div>
 	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
@@ -28,6 +32,8 @@
  	<div>保险缩略图</div>
  	<div><input type="file" name="uploadfile" /></div>
  	<div><input type="submit" value="创建保险" /></div>
-</form>
+    </form>
+	<br><br>
+	<a href="index.html" class="button">返回主页</a>
 </body>
 </html>

@@ -1,21 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
 	<title>创建公司</title>
 	<style type="text/css">
-		@import"../css/console.css"
+		@import"../css/console.css";
 	</style>
 	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 </head>
 <body>
+    <br>
+    <h1>添加公司</h1>
+    <br>
 	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/company" method="POST" class="form-body">
 	<div>公司名字</div>
 	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
+    <div>公司英文名字</div>
+    <div><textarea type="text" name="englishname" cols="100" rows="1"></textarea></div>
+    <div>公司创建时间</div>
+    <div><textarea type="text" name="buildtime" cols="100" rows="1"></textarea></div>
+    <div>公司网页</div>
+    <div><textarea type="text" name="website" cols="100" rows="1"></textarea></div>
 	<div>公司描述</div>
 	<div><textarea type="text" name="desc" cols="100" rows="3"></textarea></div>
 	<div>公司封面</div>
  	<div><input type="file" name="uploadfile" /></div>
  	<div><input type="submit" value="创建公司" /></div>
-</form>
+    </form>
+	<br><br>
+	<a href="index.html" class="button">返回主页</a>
+
 </body>
 </html>
