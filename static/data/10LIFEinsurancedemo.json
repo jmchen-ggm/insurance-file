@@ -73,3768 +73,1307 @@
         "zh-TW": "假設35歳非吸煙男性，10年供款",
         "en": "Based on 35 non-smoking male, 10 years payment"
       },
-      "PaymentTerms": {
-        "zh-TW": "",
-        "en": ""
-      },
-      "IssueAge": " - ",
-      "CurrencyCode": "",
-      "ProductWebsite": "",
-      "Company": {
-        "id": 0,
-        "name": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "Logo_image_url": "",
-        "Product_category_ids": null
-      },
-      "Category": {
-        "id": 0,
-        "name": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "icon_name": ""
-      }
+      "IssueAge": " - "
     }
-  },
-    {
-      "Id": 63,
-      "NameZHCN": "「柏御」終身保障計劃",
-      "NameEN": "MetLife Pine Shield Whole Life Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 51,
-      "NameZHCN": "盈豐寶(10年期)終身保險計劃(特別版)",
-      "NameEN": "Superior Wealth (10-year) Whole Life Plan (SE)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 52,
-      "NameZHCN": "盈豐寶(10年期)終身保險計劃(升級版)",
-      "NameEN": "Superior Wealth Plus (10-Year) Whole Life Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 69,
-      "NameZHCN": "生命雋富保",
-      "NameEN": "LIFE Brilliance",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，8年供款",
-          "en": "Based on 35 non-smoking male, 8 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 27,
-      "NameZHCN": "「裕滿人生」保障計劃2",
-      "NameEN": "Admire Life 2",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 35,
-      "NameZHCN": "「簡愛．延續」保障計劃2",
-      "NameEN": "Simply Love Encore 2",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 31,
-      "NameZHCN": "「愛無憂長享計劃3」",
-      "NameEN": "Forever Love Coupon Plan 3  ",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 32,
-      "NameZHCN": "「愛無憂長享計劃3(特級保障)」",
-      "NameEN": "Forever Love Coupon Plan 3 (EP)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 58,
-      "NameZHCN": "宏達百年儲蓄保障計劃",
-      "NameEN": "ManuVision Protector",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 88,
-      "NameZHCN": "?盛世 · 傳家寶?壽險計劃(優越版)",
-      "NameEN": "Regent Prestige",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，8年供款",
-          "en": "Based on 35 non-smoking male, 8 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 59,
-      "NameZHCN": "卓越保障計劃系列",
-      "NameEN": "Premier Estate Protector (PEP)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 26,
-      "NameZHCN": "「盛世」壽險計劃",
-      "NameEN": "\"Regent\" Insurance Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，12年供款",
-          "en": "Based on 35 non-smoking male, 12 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 43,
-      "NameZHCN": "綻放人生收益壽險計劃 (8年)",
-      "NameEN": "IncomeShine Whole Life Coupon Plan (8-Yr Pay)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中銀人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，8年供款",
-          "en": "Based on 35 non-smoking male, 8 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 50,
-      "NameZHCN": "盈滿寶(10年期)終身保險計劃(簡易版)",
-      "NameEN": "Supreme Wealth (10-year) Whole Life Plan (Simplified)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 44,
-      "NameZHCN": "非凡人生終身壽險計劃",
-      "NameEN": "SmartUp Whole Life Insurance Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中銀人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 49,
-      "NameZHCN": "盈滿寶(10年期)終身保險計劃",
-      "NameEN": "Supreme Wealth (10-Year) Whole Life Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 29,
-      "NameZHCN": "「充裕未來」計劃2﹝特級保障﹞(12年)",
-      "NameEN": "Bonus Power Plan 2 (EP) (12-Years Pay)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，12年供款",
-          "en": "Based on 35 non-smoking male, 12 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 47,
-      "NameZHCN": "美滿寶(10年期)終身保險計劃",
-      "NameEN": "Perfect Wealth (10-Year) Whole Life Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 89,
-      "NameZHCN": "太平財雋保保障計劃",
-      "NameEN": "Taiping Wealth Power Savings Protection Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "中國太平",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 60,
-      "NameZHCN": "首選創富儲蓄保",
-      "NameEN": "PrimeWealth Saver",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "美國萬通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 54,
-      "NameZHCN": "享一生儲蓄壽險計劃 (9年)",
-      "NameEN": "Eternity Savings Insurance Plan (9-Years Pay)",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，9年供款",
-          "en": "Based on 35 non-smoking male, 9 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 62,
-      "NameZHCN": "「歲盈」儲蓄計劃",
-      "NameEN": "MetLife Park Avenue Saver Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 33,
-      "NameZHCN": "「智昇」保險計劃2",
-      "NameEN": "Proactive Insurance Plan 2",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 61,
-      "NameZHCN": "倍輕鬆儲蓄保障計劃",
-      "NameEN": "Wealth Builder Life Insurance Plan",
-      "TypeName": "儲蓄型人壽",
-      "CompanyName": "美國萬通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，10年供款",
-          "en": "Based on 35 non-smoking male, 10 years payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 94,
-      "NameZHCN": "守護168",
-      "NameEN": "Healthcare 168",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 95,
-      "NameZHCN": "危疾全守衛 (優越版) ",
-      "NameEN": "Crisis X Defender Supreme",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 93,
-      "NameZHCN": "危疾全裕備保險計劃 (強護版)",
-      "NameEN": "Critical Illness Guardian Insurance (Enhanced)",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 97,
-      "NameZHCN": "「健康領航」危疾保障計劃 +「十倍．愛」保障",
-      "NameEN": " Health Navigator Critical Illness Protector (with Extra Love Benefit)",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 92,
-      "NameZHCN": "康采 II 嚴重疾病保障 (早期+多重附加契約)",
-      "NameEN": "Health Vital 2 (with Early and Multiple Supplement)",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 71,
-      "NameZHCN": "活耀人生危疾保 ",
-      "NameEN": "ManuBright Care ",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 99,
-      "NameZHCN": "危疾370",
-      "NameEN": "Critical Illness Combo 370",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "安達人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，22年供款",
-          "en": "Based on 35 non-smoking male, 22-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 18,
-      "NameZHCN": "首選健康多重保",
-      "NameEN": "PrimeHealth Extra Saver",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "美國萬通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 98,
-      "NameZHCN": "「健康新思維」危疾保障計劃",
-      "NameEN": " Health 4 Dimension",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 91,
-      "NameZHCN": "多重智倍保",
-      "NameEN": "Smart Elite Ultra",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 100,
-      "NameZHCN": "星級「 倍康健」危疾保障計劃",
-      "NameEN": "Super Care Critical Illness Protector",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "安達人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，22年供款",
-          "en": "Based on 35 non-smoking male, 22-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 5,
-      "NameZHCN": "守護健康危疾加倍保 ",
-      "NameEN": "PRUhealth Critical Illness Multi-Care",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 16,
-      "NameZHCN": "摯守護危疾保險計劃 (多重危疾附加利益保障)",
-      "NameEN": "BestCarePro (with Multi Rider)",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "中銀人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 7,
-      "NameZHCN": "樂康無憂危疾保",
-      "NameEN": "ManuEssential Care",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 6,
-      "NameZHCN": "樂活無憂危疾保",
-      "NameEN": "ManuMulti Care ",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 3,
-      "NameZHCN": "多重安心保2",
-      "NameEN": "Multi Care Pro 2",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 1,
-      "NameZHCN": "加裕倍安保（加強版）",
-      "NameEN": "Protector Elevator Plus",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 86,
-      "NameZHCN": "康諾 II 嚴重疾病保障",
-      "NameEN": "Health Select 2",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 20,
-      "NameZHCN": "衛你明天終身危疾保障計劃 ",
-      "NameEN": "Safeguard Tomorrow",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 10,
-      "NameZHCN": "危疾全攻略",
-      "NameEN": "Crisis V Cover",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 96,
-      "NameZHCN": "「健康領航」危疾保障計劃",
-      "NameEN": " Health Navigator Critical Illness Protector",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 19,
-      "NameZHCN": "全衛您多重優越終身危疾保",
-      "NameEN": "Superb Protection ",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "中國人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 15,
-      "NameZHCN": "摯守護危疾保險計劃",
-      "NameEN": "BestCarePro ",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "中銀人壽",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，20年供款",
-          "en": "Based on 35 non-smoking male, 20-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 4,
-      "NameZHCN": "守護健康危疾全護保",
-      "NameEN": "PRUhealth Critical Illness Protector",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 12,
-      "NameZHCN": "永明危疾「全護」保",
-      "NameEN": "SunHealth UltraCare",
-      "TypeName": "儲蓄型危疾",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性，25年供款",
-          "en": "Based on 35 non-smoking male, 25-year payment"
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": " - ",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 183,
-      "NameZHCN": "「卓越」無憂保",
-      "NameEN": "SmartCare Optimum - Deluxe",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "18 - 64",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 122,
-      "NameZHCN": "信諾尊尚醫療保",
-      "NameEN": "HealthFirst Elite ",
-      "TypeName": "高端醫療",
-      "CompanyName": "信諾",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 229,
-      "NameZHCN": "安盛安心",
-      "NameEN": "MediPartner - Standard",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "14 - 60",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 228,
-      "NameZHCN": "安盛安心",
-      "NameEN": "MediPartner - Superior",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "14 - 60",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 135,
-      "NameZHCN": "大亨醫療保險 - 銀",
-      "NameEN": "Tycoon - Silver",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 268,
-      "NameZHCN": "「貴族」醫療保險 - 精選",
-      "NameEN": "HealthNoble - Essential",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 265,
-      "NameZHCN": "「健康至尚」",
-      "NameEN": "Health On The Peak",
-      "TypeName": "高端醫療",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "5 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 269,
-      "NameZHCN": "「貴族」醫療保險 - 僅越",
-      "NameEN": "HealthNoble - Premier",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 156,
-      "NameZHCN": "晉領醫療保障",
-      "NameEN": "ManuMaster - Classic",
-      "TypeName": "高端醫療",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 270,
-      "NameZHCN": "「貴族」醫療保險 - 尊尚",
-      "NameEN": "HealthNoble - Platinum",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 162,
-      "NameZHCN": "醫療加倍保 ",
-      "NameEN": "PruHealth Medical Plus - Plan 2",
-      "TypeName": "高端醫療",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "30 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 101,
-      "NameZHCN": "「裕醫保」 -優選",
-      "NameEN": "MediGold - Preferred",
-      "TypeName": "高端醫療",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 246,
-      "NameZHCN": "永明精心醫療保",
-      "NameEN": "SunHealth Medical Essential",
-      "TypeName": "高端醫療",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 110,
-      "NameZHCN": "亞洲至尊2",
-      "NameEN": "CEO Essence2",
-      "TypeName": "高端醫療",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 295,
-      "NameZHCN": "「三高保」醫療保險",
-      "NameEN": "HealthAngel",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 75",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 159,
-      "NameZHCN": "醫療加倍保 ",
-      "NameEN": "PruHealth Medical Plus - Plan 1",
-      "TypeName": "高端醫療",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "30 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 102,
-      "NameZHCN": "「裕醫保」 - 卓越",
-      "NameEN": "MediGold - Premier",
-      "TypeName": "高端醫療",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 292,
-      "NameZHCN": "「三高保」醫療保險",
-      "NameEN": "HealthAngel",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 75",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 116,
-      "NameZHCN": "信諾尊尚醫療保",
-      "NameEN": "HealthFirst Elite ",
-      "TypeName": "高端醫療",
-      "CompanyName": "信諾",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 134,
-      "NameZHCN": "大亨醫療保險 - 金",
-      "NameEN": "Tycoon - Gold",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 174,
-      "NameZHCN": "衛一醫療總匯",
-      "NameEN": "TheOne Medical Solution",
-      "TypeName": "高端醫療",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 262,
-      "NameZHCN": "「健康至尚」",
-      "NameEN": "Health On The Peak",
-      "TypeName": "高端醫療",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "5 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 133,
-      "NameZHCN": "大亨醫療保險 - 白金",
-      "NameEN": "Tycoon - Platinum",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 197,
-      "NameZHCN": "寰宇特選 II  - 標準",
-      "NameEN": "Global Elite II - Standard",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "14 - 80",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 238,
-      "NameZHCN": "永明滿心醫療保",
-      "NameEN": "SunHealth Medical Premier ",
-      "TypeName": "高端醫療",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 153,
-      "NameZHCN": "晉領醫療保障",
-      "NameEN": "ManuMaster - Premier",
-      "TypeName": "高端醫療",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 303,
-      "NameZHCN": "忠意優晉醫療保障",
-      "NameEN": "Prestigio",
-      "TypeName": "高端醫療",
-      "CompanyName": "忠意保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 168,
-      "NameZHCN": "「摯為您」優悅醫療保險",
-      "NameEN": "PRUmyhealth prestige ",
-      "TypeName": "高端醫療",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "30 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 107,
-      "NameZHCN": "至尊醫療5",
-      "NameEN": "CEO 5",
-      "TypeName": "高端醫療",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 175,
-      "NameZHCN": "衛一醫療總匯",
-      "NameEN": "TheOne Medical Solution",
-      "TypeName": "高端醫療",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 259,
-      "NameZHCN": "「健康至尚」",
-      "NameEN": "Health On The Peak",
-      "TypeName": "高端醫療",
-      "CompanyName": "大都會",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "5 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 113,
-      "NameZHCN": "信諾尊尚醫療保",
-      "NameEN": "HealthFirst Elite ",
-      "TypeName": "高端醫療",
-      "CompanyName": "信諾",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 234,
-      "NameZHCN": "永明滿心醫療保",
-      "NameEN": "SunHealth Medical Premier ",
-      "TypeName": "高端醫療",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 132,
-      "NameZHCN": "大亨醫療保險 - 金",
-      "NameEN": "Tycoon - Gold",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 150,
-      "NameZHCN": "晉領醫療保障",
-      "NameEN": "ManuMaster - Elite",
-      "TypeName": "高端醫療",
-      "CompanyName": "宏利",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 103,
-      "NameZHCN": "「裕醫保」 - 至尊",
-      "NameEN": "MediGold - Supreme",
-      "TypeName": "高端醫療",
-      "CompanyName": "富通",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 131,
-      "NameZHCN": "大亨醫療保險 - 白金",
-      "NameEN": "Tycoon - Platinum",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 200,
-      "NameZHCN": "寰宇特選 II  - 標準",
-      "NameEN": "Global Elite II - Standard",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "14 - 80",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 298,
-      "NameZHCN": "忠意優晉醫療保障",
-      "NameEN": "Prestigio",
-      "TypeName": "高端醫療",
-      "CompanyName": "忠意保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 163,
-      "NameZHCN": "「摯為您」優悅醫療保險",
-      "NameEN": "PRUmyhealth prestige ",
-      "TypeName": "高端醫療",
-      "CompanyName": "英國保誠",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "30 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 146,
-      "NameZHCN": "大班醫療保險",
-      "NameEN": "Taipan ",
-      "TypeName": "高端醫療",
-      "CompanyName": "藍十字保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "12 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 104,
-      "NameZHCN": "至尊醫療5",
-      "NameEN": "CEO 5",
-      "TypeName": "高端醫療",
-      "CompanyName": "友邦",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 119,
-      "NameZHCN": "信諾尊尚醫療保",
-      "NameEN": "HealthFirst Elite ",
-      "TypeName": "高端醫療",
-      "CompanyName": "信諾",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "0 - 0",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 182,
-      "NameZHCN": "「卓越」無憂保 ",
-      "NameEN": "SmartCare Optimum - Elite",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "18 - 64",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 173,
-      "NameZHCN": "衛一醫療總匯",
-      "NameEN": "TheOne Medical Solution",
-      "TypeName": "高端醫療",
-      "CompanyName": "富衛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 69",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 308,
-      "NameZHCN": "忠意優晉醫療保障",
-      "NameEN": "Prestigio",
-      "TypeName": "高端醫療",
-      "CompanyName": "忠意保險",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 242,
-      "NameZHCN": "永明滿心醫療保",
-      "NameEN": "SunHealth Medical Premier ",
-      "TypeName": "高端醫療",
-      "CompanyName": "永明",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 70",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 194,
-      "NameZHCN": "寰宇特選 II  - 標準",
-      "NameEN": "Global Elite II - Standard",
-      "TypeName": "高端醫療",
-      "CompanyName": "安盛",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "14 - 80",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 271,
-      "NameZHCN": "「貴族」醫療保險 - 精選",
-      "NameEN": "HealthNoble - Essential",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 272,
-      "NameZHCN": "「貴族」醫療保險 - 僅越",
-      "NameEN": "HealthNoble - Premier",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 273,
-      "NameZHCN": "「貴族」醫療保險 - 尊尚",
-      "NameEN": "HealthNoble - Platinum",
-      "TypeName": "高端醫療",
-      "CompanyName": "蘇黎世",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "假設35歳非吸煙男性",
-          "en": "Based on 35 non-smoking male "
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "15 - 65",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
-    },
-    {
-      "Id": 0,
-      "NameZHCN": "",
-      "NameEN": "",
-      "TypeName": "",
-      "CompanyName": "",
-      "Desc": {
-        "ShortNote": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "PaymentTerms": {
-          "zh-TW": "",
-          "en": ""
-        },
-        "IssueAge": "",
-        "CurrencyCode": "",
-        "ProductWebsite": "",
-        "Company": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "Logo_image_url": "",
-          "Product_category_ids": null
-        },
-        "Category": {
-          "id": 0,
-          "name": {
-            "zh-TW": "",
-            "en": ""
-          },
-          "icon_name": ""
-        }
-      }
+  }, {
+    "Id": 63,
+    "NameZHCN": "「柏御」終身保障計劃",
+    "NameEN": "MetLife Pine Shield Whole Life Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
     }
-  ]
+  }, {
+    "Id": 51,
+    "NameZHCN": "盈豐寶(10年期)終身保險計劃(特別版)",
+    "NameEN": "Superior Wealth (10-year) Whole Life Plan (SE)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 52,
+    "NameZHCN": "盈豐寶(10年期)終身保險計劃(升級版)",
+    "NameEN": "Superior Wealth Plus (10-Year) Whole Life Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 69,
+    "NameZHCN": "生命雋富保",
+    "NameEN": "LIFE Brilliance",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，8年供款",
+        "en": "Based on 35 non-smoking male, 8 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 27,
+    "NameZHCN": "「裕滿人生」保障計劃2",
+    "NameEN": "Admire Life 2",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 35,
+    "NameZHCN": "「簡愛．延續」保障計劃2",
+    "NameEN": "Simply Love Encore 2",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 31,
+    "NameZHCN": "「愛無憂長享計劃3」",
+    "NameEN": "Forever Love Coupon Plan 3  ",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 32,
+    "NameZHCN": "「愛無憂長享計劃3(特級保障)」",
+    "NameEN": "Forever Love Coupon Plan 3 (EP)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 58,
+    "NameZHCN": "宏達百年儲蓄保障計劃",
+    "NameEN": "ManuVision Protector",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 88,
+    "NameZHCN": "?盛世 · 傳家寶?壽險計劃(優越版)",
+    "NameEN": "Regent Prestige",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，8年供款",
+        "en": "Based on 35 non-smoking male, 8 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 59,
+    "NameZHCN": "卓越保障計劃系列",
+    "NameEN": "Premier Estate Protector (PEP)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 26,
+    "NameZHCN": "「盛世」壽險計劃",
+    "NameEN": "\"Regent\" Insurance Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，12年供款",
+        "en": "Based on 35 non-smoking male, 12 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 43,
+    "NameZHCN": "綻放人生收益壽險計劃 (8年)",
+    "NameEN": "IncomeShine Whole Life Coupon Plan (8-Yr Pay)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中銀人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，8年供款",
+        "en": "Based on 35 non-smoking male, 8 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 50,
+    "NameZHCN": "盈滿寶(10年期)終身保險計劃(簡易版)",
+    "NameEN": "Supreme Wealth (10-year) Whole Life Plan (Simplified)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 44,
+    "NameZHCN": "非凡人生終身壽險計劃",
+    "NameEN": "SmartUp Whole Life Insurance Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中銀人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 49,
+    "NameZHCN": "盈滿寶(10年期)終身保險計劃",
+    "NameEN": "Supreme Wealth (10-Year) Whole Life Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 29,
+    "NameZHCN": "「充裕未來」計劃2﹝特級保障﹞(12年)",
+    "NameEN": "Bonus Power Plan 2 (EP) (12-Years Pay)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，12年供款",
+        "en": "Based on 35 non-smoking male, 12 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 47,
+    "NameZHCN": "美滿寶(10年期)終身保險計劃",
+    "NameEN": "Perfect Wealth (10-Year) Whole Life Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 89,
+    "NameZHCN": "太平財雋保保障計劃",
+    "NameEN": "Taiping Wealth Power Savings Protection Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "中國太平",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 60,
+    "NameZHCN": "首選創富儲蓄保",
+    "NameEN": "PrimeWealth Saver",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "美國萬通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 54,
+    "NameZHCN": "享一生儲蓄壽險計劃 (9年)",
+    "NameEN": "Eternity Savings Insurance Plan (9-Years Pay)",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，9年供款",
+        "en": "Based on 35 non-smoking male, 9 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 62,
+    "NameZHCN": "「歲盈」儲蓄計劃",
+    "NameEN": "MetLife Park Avenue Saver Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 33,
+    "NameZHCN": "「智昇」保險計劃2",
+    "NameEN": "Proactive Insurance Plan 2",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 61,
+    "NameZHCN": "倍輕鬆儲蓄保障計劃",
+    "NameEN": "Wealth Builder Life Insurance Plan",
+    "TypeName": "儲蓄型人壽",
+    "CompanyName": "美國萬通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，10年供款",
+        "en": "Based on 35 non-smoking male, 10 years payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 94,
+    "NameZHCN": "守護168",
+    "NameEN": "Healthcare 168",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 95,
+    "NameZHCN": "危疾全守衛 (優越版) ",
+    "NameEN": "Crisis X Defender Supreme",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 93,
+    "NameZHCN": "危疾全裕備保險計劃 (強護版)",
+    "NameEN": "Critical Illness Guardian Insurance (Enhanced)",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 97,
+    "NameZHCN": "「健康領航」危疾保障計劃 +「十倍．愛」保障",
+    "NameEN": " Health Navigator Critical Illness Protector (with Extra Love Benefit)",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 92,
+    "NameZHCN": "康采 II 嚴重疾病保障 (早期+多重附加契約)",
+    "NameEN": "Health Vital 2 (with Early and Multiple Supplement)",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 71,
+    "NameZHCN": "活耀人生危疾保 ",
+    "NameEN": "ManuBright Care ",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": "0 - 65"
+    }
+  }, {
+    "Id": 99,
+    "NameZHCN": "危疾370",
+    "NameEN": "Critical Illness Combo 370",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "安達人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，22年供款",
+        "en": "Based on 35 non-smoking male, 22-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 18,
+    "NameZHCN": "首選健康多重保",
+    "NameEN": "PrimeHealth Extra Saver",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "美國萬通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 98,
+    "NameZHCN": "「健康新思維」危疾保障計劃",
+    "NameEN": " Health 4 Dimension",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 91,
+    "NameZHCN": "多重智倍保",
+    "NameEN": "Smart Elite Ultra",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 100,
+    "NameZHCN": "星級「 倍康健」危疾保障計劃",
+    "NameEN": "Super Care Critical Illness Protector",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "安達人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，22年供款",
+        "en": "Based on 35 non-smoking male, 22-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 5,
+    "NameZHCN": "守護健康危疾加倍保 ",
+    "NameEN": "PRUhealth Critical Illness Multi-Care",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 16,
+    "NameZHCN": "摯守護危疾保險計劃 (多重危疾附加利益保障)",
+    "NameEN": "BestCarePro (with Multi Rider)",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "中銀人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 7,
+    "NameZHCN": "樂康無憂危疾保",
+    "NameEN": "ManuEssential Care",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": "0 - 65"
+    }
+  }, {
+    "Id": 6,
+    "NameZHCN": "樂活無憂危疾保",
+    "NameEN": "ManuMulti Care ",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": "0 - 65"
+    }
+  }, {
+    "Id": 3,
+    "NameZHCN": "多重安心保2",
+    "NameEN": "Multi Care Pro 2",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 1,
+    "NameZHCN": "加裕倍安保（加強版）",
+    "NameEN": "Protector Elevator Plus",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 86,
+    "NameZHCN": "康諾 II 嚴重疾病保障",
+    "NameEN": "Health Select 2",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 20,
+    "NameZHCN": "衛你明天終身危疾保障計劃 ",
+    "NameEN": "Safeguard Tomorrow",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 10,
+    "NameZHCN": "危疾全攻略",
+    "NameEN": "Crisis V Cover",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 96,
+    "NameZHCN": "「健康領航」危疾保障計劃",
+    "NameEN": " Health Navigator Critical Illness Protector",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 19,
+    "NameZHCN": "全衛您多重優越終身危疾保",
+    "NameEN": "Superb Protection ",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "中國人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 15,
+    "NameZHCN": "摯守護危疾保險計劃",
+    "NameEN": "BestCarePro ",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "中銀人壽",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，20年供款",
+        "en": "Based on 35 non-smoking male, 20-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 4,
+    "NameZHCN": "守護健康危疾全護保",
+    "NameEN": "PRUhealth Critical Illness Protector",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 12,
+    "NameZHCN": "永明危疾「全護」保",
+    "NameEN": "SunHealth UltraCare",
+    "TypeName": "儲蓄型危疾",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性，25年供款",
+        "en": "Based on 35 non-smoking male, 25-year payment"
+      },
+      "IssueAge": " - "
+    }
+  }, {
+    "Id": 183,
+    "NameZHCN": "「卓越」無憂保",
+    "NameEN": "SmartCare Optimum - Deluxe",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "18 - 64"
+    }
+  }, {
+    "Id": 122,
+    "NameZHCN": "信諾尊尚醫療保",
+    "NameEN": "HealthFirst Elite ",
+    "TypeName": "高端醫療",
+    "CompanyName": "信諾",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 229,
+    "NameZHCN": "安盛安心",
+    "NameEN": "MediPartner - Standard",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "14 - 60"
+    }
+  }, {
+    "Id": 228,
+    "NameZHCN": "安盛安心",
+    "NameEN": "MediPartner - Superior",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "14 - 60"
+    }
+  }, {
+    "Id": 135,
+    "NameZHCN": "大亨醫療保險 - 銀",
+    "NameEN": "Tycoon - Silver",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 268,
+    "NameZHCN": "「貴族」醫療保險 - 精選",
+    "NameEN": "HealthNoble - Essential",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }, {
+    "Id": 265,
+    "NameZHCN": "「健康至尚」",
+    "NameEN": "Health On The Peak",
+    "TypeName": "高端醫療",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "5 - 65"
+    }
+  }, {
+    "Id": 269,
+    "NameZHCN": "「貴族」醫療保險 - 僅越",
+    "NameEN": "HealthNoble - Premier",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }, {
+    "Id": 156,
+    "NameZHCN": "晉領醫療保障",
+    "NameEN": "ManuMaster - Classic",
+    "TypeName": "高端醫療",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 270,
+    "NameZHCN": "「貴族」醫療保險 - 尊尚",
+    "NameEN": "HealthNoble - Platinum",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }, {
+    "Id": 162,
+    "NameZHCN": "醫療加倍保 ",
+    "NameEN": "PruHealth Medical Plus - Plan 2",
+    "TypeName": "高端醫療",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "30 - 69"
+    }
+  }, {
+    "Id": 101,
+    "NameZHCN": "「裕醫保」 -優選",
+    "NameEN": "MediGold - Preferred",
+    "TypeName": "高端醫療",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 246,
+    "NameZHCN": "永明精心醫療保",
+    "NameEN": "SunHealth Medical Essential",
+    "TypeName": "高端醫療",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 110,
+    "NameZHCN": "亞洲至尊2",
+    "NameEN": "CEO Essence2",
+    "TypeName": "高端醫療",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 295,
+    "NameZHCN": "「三高保」醫療保險",
+    "NameEN": "HealthAngel",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 75"
+    }
+  }, {
+    "Id": 159,
+    "NameZHCN": "醫療加倍保 ",
+    "NameEN": "PruHealth Medical Plus - Plan 1",
+    "TypeName": "高端醫療",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "30 - 69"
+    }
+  }, {
+    "Id": 102,
+    "NameZHCN": "「裕醫保」 - 卓越",
+    "NameEN": "MediGold - Premier",
+    "TypeName": "高端醫療",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 292,
+    "NameZHCN": "「三高保」醫療保險",
+    "NameEN": "HealthAngel",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 75"
+    }
+  }, {
+    "Id": 116,
+    "NameZHCN": "信諾尊尚醫療保",
+    "NameEN": "HealthFirst Elite ",
+    "TypeName": "高端醫療",
+    "CompanyName": "信諾",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 134,
+    "NameZHCN": "大亨醫療保險 - 金",
+    "NameEN": "Tycoon - Gold",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 174,
+    "NameZHCN": "衛一醫療總匯",
+    "NameEN": "TheOne Medical Solution",
+    "TypeName": "高端醫療",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 69"
+    }
+  }, {
+    "Id": 262,
+    "NameZHCN": "「健康至尚」",
+    "NameEN": "Health On The Peak",
+    "TypeName": "高端醫療",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "5 - 65"
+    }
+  }, {
+    "Id": 133,
+    "NameZHCN": "大亨醫療保險 - 白金",
+    "NameEN": "Tycoon - Platinum",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 197,
+    "NameZHCN": "寰宇特選 II  - 標準",
+    "NameEN": "Global Elite II - Standard",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "14 - 80"
+    }
+  }, {
+    "Id": 238,
+    "NameZHCN": "永明滿心醫療保",
+    "NameEN": "SunHealth Medical Premier ",
+    "TypeName": "高端醫療",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 153,
+    "NameZHCN": "晉領醫療保障",
+    "NameEN": "ManuMaster - Premier",
+    "TypeName": "高端醫療",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 303,
+    "NameZHCN": "忠意優晉醫療保障",
+    "NameEN": "Prestigio",
+    "TypeName": "高端醫療",
+    "CompanyName": "忠意保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 168,
+    "NameZHCN": "「摯為您」優悅醫療保險",
+    "NameEN": "PRUmyhealth prestige ",
+    "TypeName": "高端醫療",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "30 - 69"
+    }
+  }, {
+    "Id": 107,
+    "NameZHCN": "至尊醫療5",
+    "NameEN": "CEO 5",
+    "TypeName": "高端醫療",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 175,
+    "NameZHCN": "衛一醫療總匯",
+    "NameEN": "TheOne Medical Solution",
+    "TypeName": "高端醫療",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 69"
+    }
+  }, {
+    "Id": 259,
+    "NameZHCN": "「健康至尚」",
+    "NameEN": "Health On The Peak",
+    "TypeName": "高端醫療",
+    "CompanyName": "大都會",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "5 - 65"
+    }
+  }, {
+    "Id": 113,
+    "NameZHCN": "信諾尊尚醫療保",
+    "NameEN": "HealthFirst Elite ",
+    "TypeName": "高端醫療",
+    "CompanyName": "信諾",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 234,
+    "NameZHCN": "永明滿心醫療保",
+    "NameEN": "SunHealth Medical Premier ",
+    "TypeName": "高端醫療",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 132,
+    "NameZHCN": "大亨醫療保險 - 金",
+    "NameEN": "Tycoon - Gold",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 150,
+    "NameZHCN": "晉領醫療保障",
+    "NameEN": "ManuMaster - Elite",
+    "TypeName": "高端醫療",
+    "CompanyName": "宏利",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 103,
+    "NameZHCN": "「裕醫保」 - 至尊",
+    "NameEN": "MediGold - Supreme",
+    "TypeName": "高端醫療",
+    "CompanyName": "富通",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 131,
+    "NameZHCN": "大亨醫療保險 - 白金",
+    "NameEN": "Tycoon - Platinum",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 200,
+    "NameZHCN": "寰宇特選 II  - 標準",
+    "NameEN": "Global Elite II - Standard",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "14 - 80"
+    }
+  }, {
+    "Id": 298,
+    "NameZHCN": "忠意優晉醫療保障",
+    "NameEN": "Prestigio",
+    "TypeName": "高端醫療",
+    "CompanyName": "忠意保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 163,
+    "NameZHCN": "「摯為您」優悅醫療保險",
+    "NameEN": "PRUmyhealth prestige ",
+    "TypeName": "高端醫療",
+    "CompanyName": "英國保誠",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "30 - 69"
+    }
+  }, {
+    "Id": 146,
+    "NameZHCN": "大班醫療保險",
+    "NameEN": "Taipan ",
+    "TypeName": "高端醫療",
+    "CompanyName": "藍十字保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "12 - 70"
+    }
+  }, {
+    "Id": 104,
+    "NameZHCN": "至尊醫療5",
+    "NameEN": "CEO 5",
+    "TypeName": "高端醫療",
+    "CompanyName": "友邦",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 119,
+    "NameZHCN": "信諾尊尚醫療保",
+    "NameEN": "HealthFirst Elite ",
+    "TypeName": "高端醫療",
+    "CompanyName": "信諾",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "0 - 0"
+    }
+  }, {
+    "Id": 182,
+    "NameZHCN": "「卓越」無憂保 ",
+    "NameEN": "SmartCare Optimum - Elite",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "18 - 64"
+    }
+  }, {
+    "Id": 173,
+    "NameZHCN": "衛一醫療總匯",
+    "NameEN": "TheOne Medical Solution",
+    "TypeName": "高端醫療",
+    "CompanyName": "富衛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 69"
+    }
+  }, {
+    "Id": 308,
+    "NameZHCN": "忠意優晉醫療保障",
+    "NameEN": "Prestigio",
+    "TypeName": "高端醫療",
+    "CompanyName": "忠意保險",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 242,
+    "NameZHCN": "永明滿心醫療保",
+    "NameEN": "SunHealth Medical Premier ",
+    "TypeName": "高端醫療",
+    "CompanyName": "永明",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 70"
+    }
+  }, {
+    "Id": 194,
+    "NameZHCN": "寰宇特選 II  - 標準",
+    "NameEN": "Global Elite II - Standard",
+    "TypeName": "高端醫療",
+    "CompanyName": "安盛",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "14 - 80"
+    }
+  }, {
+    "Id": 271,
+    "NameZHCN": "「貴族」醫療保險 - 精選",
+    "NameEN": "HealthNoble - Essential",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }, {
+    "Id": 272,
+    "NameZHCN": "「貴族」醫療保險 - 僅越",
+    "NameEN": "HealthNoble - Premier",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }, {
+    "Id": 273,
+    "NameZHCN": "「貴族」醫療保險 - 尊尚",
+    "NameEN": "HealthNoble - Platinum",
+    "TypeName": "高端醫療",
+    "CompanyName": "蘇黎世",
+    "Desc": {
+      "ShortNote": {
+        "zh-TW": "假設35歳非吸煙男性",
+        "en": "Based on 35 non-smoking male "
+      },
+      "IssueAge": "15 - 65"
+    }
+  }]
 }
