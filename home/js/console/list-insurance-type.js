@@ -5,7 +5,7 @@ const insuranceTypeList = new Vue(
 			insuranceTypes: []
 		},
 		mounted() {
-			axios.post(RequestUrl, createRequestJsonBody(FuncListInsuranceType)).then(response => {
+			axios.post(RequestUrl, createRequestJsonBody(FuncListArticle)).then(response => {
 	  			this.insuranceTypes = response.data.Body.InsuranceTypeList
 	  		});
 		}

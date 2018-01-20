@@ -1,4 +1,4 @@
-const insuranceTypeList = new Vue(
+const companyList = new Vue(
 	{
 		el: '#company-list',
 		data: {
