@@ -1,0 +1,36 @@
+{  
+    "InsuranceTypeList":[  
+        {  
+            "Id":1,
+            "Name":"高端医疗险",
+            "Desc":"针对高端人群设计，超高保额、突破国家医保限制、就医直付、覆盖广泛的医疗费用保险。",
+            "ThumbUrl":"img/insuranceTypes/高端医疗险.png",
+            "Flags":0,
+            "DetailData":"{\"englishName\": \"High-end Medical\"}"
+        },
+        {  
+            "Id":2,
+            "Name":"储蓄型危疾",
+            "Desc":"需要固定缴费满一定年数，中间不能断，不然退保损失很大。费用较高，交满之后就可以不再续保，参保人可以到指定保险期限一直享受保障。",
+            "ThumbUrl":"img/insuranceTypes/储蓄型危疾.png",
+            "Flags":0,
+            "DetailData":"{\"englishName\": \"Whole Life Critical Illness\"}"
+        },
+        {  
+            "Id":3,
+            "Name":"储蓄型人寿",
+            "Desc":"以被保险人的寿命为保险标的，且以被保险人的生存或死亡为给付条件的人身保险。",
+            "ThumbUrl":"img/insuranceTypes/储蓄型人寿.png",
+            "Flags":0,
+            "DetailData":"{\"englishName\": \"Whole Life Savings\"}"
+        },
+        {  
+            "Id":4,
+            "Name":"个人意外险",
+            "Desc":"投保人向保险公司缴纳一定金额的保费，当被保险人在保险期限内遭受意外伤害，并以此为直接原因造成死亡或残废时，保险公司按照保险合同的约定向保险人或受益人支付一定数量保险金的保险。",
+            "ThumbUrl":"img/insuranceTypes/个人意外险.png",
+            "Flags":0,
+            "DetailData":"{\"englishName\": \"Personal Accident\"}"
+        }
+    ]
+}
