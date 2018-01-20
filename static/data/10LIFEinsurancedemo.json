@@ -2,20 +2,16 @@
   "InsuranceSpecies": [{
     "Name": "高端医疗",
     "id": 1
-  },
-    {
-      "Name": "储蓄型危疾",
-      "id": 2
-    },
-    {
-      "Name": "储蓄型人寿",
-      "id": 3
-    },
-    {
-      "Name": "个人意外",
-      "id": 4
-    }
-  ],
+  }, {
+    "Name": "储蓄型危疾",
+    "id": 2
+  }, {
+    "Name": "储蓄型人寿",
+    "id": 3
+  }, {
+    "Name": "个人意外",
+    "id": 4
+  }],
   "InsuranceCompany": [{
     "Name": "法国安盛公司",
     "EnglishName": "AXA",
@@ -23,108 +19,168 @@
     "Website": "http://www.axa.com/",
     "Introduction": "法国安盛公司（AXA）是全球最大的保险集团。起初是众多互助型保险公司的机械联合企业，但现在它是当今世界上最大的一家保险公司（同德国Allianz 和荷兰ING一样），也是一个资产管理巨头。AXA在美国有子公司安盛金融公司（AXA Financial），该子公司持有联合资产管理公司（Alliance Capital Management）的绝大多数股份；同时在海外其它地方都有众多子公司。",
     "Id": 1,
-    "Img": "img/companys/C1.jpg"
-  },
-    {
-      "Name": "美国友邦保险有限公司",
-      "EnglishName": "American International Assurance Co",
-      "BuildTime": 1919,
-      "website": "http://www.aia.com/",
-      "Introduction": "美国友邦保险有限公司 （简称“友邦保险”或“AIA”）是美国国际集团（AIG）的全资附属公司，自1931年在上海创立以来，已服务亚洲地区的广大客户七十多年之久。",
-      "id": 2,
-      "Img": "img/companys/C2.jpg"
-    },
-    {
-      "Name": "英国保诚集团",
-      "EnglishName": "Prudential",
-      "BuildTime": 1848,
-      "website": "http://www.prudential.co.uk/",
-      "Introduction": "英国保诚集团在1848年创立，当时命名为英国保诚投资信贷保险公司（Prudential Investment, Loan, and Assurance Company)，业务以人寿保险为主。英国保诚保险成立后，业务迅速发展，1890年初，便成为了英国最大的人寿保险公司，为英国人民提供周全的保障，至今仍傲踞榜首。 在二十年代，英国保诚集团业务扩展到亚洲、欧洲、加拿大、新西兰及澳洲等地，服务网络遍布全世界。",
-      "id": 3,
-      "Img": "img/companys/C3.jpg"
-    },
-    {
-      "Name": "加拿大永明金融集团",
-      "EnglishName": "Sun Life Financial Services",
-      "BuildTime": 1865,
-      "website": "https://www.sunlife.com.hk/",
-      "Introduction": "加拿大永明金融集团（Sun Life Financial Services）于1865年注册成立。加拿大永明在世界各地为个人和公司客户提供广泛的储蓄、退休、养老金、人寿和健康等保险产品和服务，主要业务遍及加拿大、美国、英国和亚太地区，在世界二十多个重要市场设有办事机构，积极开展业务。加拿大永明金融是主要的国际金融服务机构，为个人及企业客户提供各类理财及保障的产品和服务。",
-      "id": 4,
-      "Img": "img/companys/C4.jpg"
-    },
-    {
-      "Name": "美国信诺保险集团",
-      "EnglishName": "CIGNA",
-      "BuildTime": 1982,
-      "website": "https://www.cigna.com/",
-      "Introduction": "美国信诺保险集团是总部设在美国的第二大国际工商保险公司，是当今世界有关保险和金融服务的主要提供者之一，服务对象包括美国与全球的个人和企业。它的前身是成立于1865年的康涅狄格大众人寿保险公司和建立于1792年的北美保险公司（美国第一家股份制保险公司）。",
-      "id": 5,
-      "Img": "img/companys/C5.png"
-    },
-    {
-      "Name": "美国大都会人寿保险公司",
-      "EnglishName": "Metlife",
-      "BuildTime": 1868,
-      "website": "https://www.metlife.com/",
-      "Introduction": "美国大都会集团创建于1868年，由一群纽约市的企业家以100,000美元筹组而成，原名为 National Union Life and Limb Insurance Company。经过五年的艰苦经营及多次重组，公司在1868年决定专注发展人寿保险业务，并针对中产阶层客户推销保险产品。由于公司的业务在被称为「Metropolitan（都会区）」的纽约市最为成功，故此以美国大都会人寿保险公司命名。2012年，大都会人寿在财富500强排名为114名，2011年排名为160名。",
-      "id": 6,
-      "Img": "img/companys/C6.png"
-    },
-    {
-      "Name": "中国人寿保险（集团）公司",
-      "EnglishName": "China Life",
-      "BuildTime": 1949,
-      "website": "http://www.e-chinalife.com/",
-      "Introduction": "中国人寿保险（集团）公司及其子公司构成了我国最大的国有金融保险集团。2013年，总保费收入达3868亿元，境内寿险业务市场份额为31.6%，总资产达24071亿元，是我国资本市场最大的机构投资者之一。连续13年入选《财富》全球500强，排名第54位；连续7年入选世界品牌500强，位列第237位、入选《中国品牌价值研究院》中国品牌500强，位列第15位。[2]  所属寿险公司继2003年12月在纽约、香港两地同步上市之后，又于2007年1月回归境内A股市场，成为内地资本市场“保险第一股”和全球第一家在纽约、香港和上海三地上市的保险公司，并已成为全球市值最大的上市寿险公司[3]  。2016年8月，中国人寿保险（集团）公司在2016中国企业500强中，排名第12。",
-      "id": 7,
-      "Img": "img/companys/C7.jpg"
-    },
-    {
-      "Name": "加拿大宏利金融集团",
-      "EnglishName": "Manulife Financial",
-      "BuildTime": 1887,
-      "website": "http://www.manulife.com/",
-      "Introduction": "加拿大宏利金融集团（Manulife Financial)是加拿大主要的财经服务企业，业务遍布全球19个国家和地区，并获得“国际标准普尔”授予“AAA”评级。继2004年完成加拿大历史上最大一宗跨国合并交易，成功实施对美国John Hancock恒康金融服务有限公司的合并，宏利金融成为加拿大第一、北美第二。宏利人寿保险是宏利金融集团属下的成员公司。加拿大宏利人寿保险公司1887年成立于加拿大多伦多市，现是加拿大规模最大的人寿保险公司和北美15家最大的人寿保险公司之一。",
-      "id": 8,
-      "Img": "img/companys/C8.jpg"
-    },
-    {
-      "Name": "富通保险",
-      "EnglishName": "Ageas Insurance Company",
-      "BuildTime": 1830,
-      "website": "",
-      "Introduction": "具有180多年保险经验的富通集团，在泛欧交易所（布鲁塞尔 – 阿姆斯特丹）上市，且位列欧洲前20大保险公司之一。",
-      "id": 9,
-      "Img": "img/companys/C9.jpg"
-    },
-    {
-      "Name": "中银保险股份有限公司",
-      "EnglishName": "BOC INSURANCE",
-      "BuildTime": 2005,
-      "website": "http://www.boclife.com.hk/",
-      "Introduction": "中银保险有限公司（简称“中银保险”）是经中国保监会批准设立的全国性财产保险公司，公司成立于2005年1月5日，总部设在北京。公司主要经营财产损失保险；责任保险；信用保险和保证保险；短期健康保险和意外伤害保险；上述业务的再保险业务；国家法律、法规允许的保险资金运用业务；经中国保监会批准的其他业务。",
-      "id": 10,
-      "Img": "img/companys/C10.jpg"
-    },
-    {
-      "Name": "中国太平保险集团有限责任公司",
-      "EnglishName": "China Taiping",
-      "BuildTime": 1929,
-      "website": "http://www.ctih.cntaiping.com/",
-      "Introduction": "中国太平保险集团有限责任公司（简称“中国太平”），1929年11月20日始创于上海，1956年移师海外，2001年重新进军中国内地市场。中国太平是四大国有金融保险集团之一，2012年列入中央管理，总部设在香港。中国太平，险种齐全，服务广泛：业务范围涵盖寿险、产险养老保险、再保险、再保险经纪及保险代理、电子商务、证券经纪、资产管理和不动产投资、养老产业投资等领域，为客户提供一站式综合金融保险服务。",
-      "id": 11,
-      "Img": "img/companys/C11.jpg"
-    },
-    {
-      "Name": "暂无",
-      "EnglishName": "none",
-      "BuildTime": 0,
-      "website": "",
-      "Introduction": "",
-      "id": 12,
-      "Img": "img/companys/6.png"
-    }
-  ],
+    "Img": "img/companys/安盛.jpg"
+  }, {
+    "Name": "美国友邦保险有限公司",
+    "EnglishName": "American International Assurance Co",
+    "BuildTime": 1919,
+    "website": "http://www.aia.com/",
+    "Introduction": "美国友邦保险有限公司 （简称“友邦保险”或“AIA”）是美国国际集团（AIG）的全资附属公司，自1931年在上海创立以来，已服务亚洲地区的广大客户七十多年之久。",
+    "id": 2,
+    "Img": "img/companys/友邦.jpg"
+  }, {
+    "Name": "英国保诚集团",
+    "EnglishName": "Prudential",
+    "BuildTime": 1848,
+    "website": "http://www.prudential.co.uk/",
+    "Introduction": "英国保诚集团在1848年创立，当时命名为英国保诚投资信贷保险公司（Prudential Investment, Loan, and Assurance Company)，业务以人寿保险为主。英国保诚保险成立后，业务迅速发展，1890年初，便成为了英国最大的人寿保险公司，为英国人民提供周全的保障，至今仍傲踞榜首。 在二十年代，英国保诚集团业务扩展到亚洲、欧洲、加拿大、新西兰及澳洲等地，服务网络遍布全世界。",
+    "id": 3,
+    "Img": "img/companys/英国保诚.jpg"
+  }, {
+    "Name": "加拿大永明金融集团",
+    "EnglishName": "Sun Life Financial Services",
+    "BuildTime": 1865,
+    "website": "https://www.sunlife.com.hk/",
+    "Introduction": "加拿大永明金融集团（Sun Life Financial Services）于1865年注册成立。加拿大永明在世界各地为个人和公司客户提供广泛的储蓄、退休、养老金、人寿和健康等保险产品和服务，主要业务遍及加拿大、美国、英国和亚太地区，在世界二十多个重要市场设有办事机构，积极开展业务。加拿大永明金融是主要的国际金融服务机构，为个人及企业客户提供各类理财及保障的产品和服务。",
+    "id": 4,
+    "Img": "img/companys/永明.jpg"
+  }, {
+    "Name": "美国信诺保险集团",
+    "EnglishName": "CIGNA",
+    "BuildTime": 1982,
+    "website": "https://www.cigna.com/",
+    "Introduction": "美国信诺保险集团是总部设在美国的第二大国际工商保险公司，是当今世界有关保险和金融服务的主要提供者之一，服务对象包括美国与全球的个人和企业。它的前身是成立于1865年的康涅狄格大众人寿保险公司和建立于1792年的北美保险公司（美国第一家股份制保险公司）。",
+    "id": 5,
+    "Img": "img/companys/信诺.jpg"
+  }, {
+    "Name": "美国大都会人寿保险公司",
+    "EnglishName": "Metlife",
+    "BuildTime": 1868,
+    "website": "https://www.metlife.com/",
+    "Introduction": "美国大都会集团创建于1868年，由一群纽约市的企业家以100,000美元筹组而成，原名为 National Union Life and Limb Insurance Company。经过五年的艰苦经营及多次重组，公司在1868年决定专注发展人寿保险业务，并针对中产阶层客户推销保险产品。由于公司的业务在被称为「Metropolitan（都会区）」的纽约市最为成功，故此以美国大都会人寿保险公司命名。2012年，大都会人寿在财富500强排名为114名，2011年排名为160名。",
+    "id": 6,
+    "Img": "img/companys/大都会.jpg"
+  }, {
+    "Name": "中国人寿保险（集团）公司",
+    "EnglishName": "China Life",
+    "BuildTime": 1949,
+    "website": "http://www.e-chinalife.com/",
+    "Introduction": "中国人寿保险（集团）公司及其子公司构成了我国最大的国有金融保险集团。2013年，总保费收入达3868亿元，境内寿险业务市场份额为31.6%，总资产达24071亿元，是我国资本市场最大的机构投资者之一。连续13年入选《财富》全球500强，排名第54位；连续7年入选世界品牌500强，位列第237位、入选《中国品牌价值研究院》中国品牌500强，位列第15位。[2]  所属寿险公司继2003年12月在纽约、香港两地同步上市之后，又于2007年1月回归境内A股市场，成为内地资本市场“保险第一股”和全球第一家在纽约、香港和上海三地上市的保险公司，并已成为全球市值最大的上市寿险公司[3]  。2016年8月，中国人寿保险（集团）公司在2016中国企业500强中，排名第12。",
+    "id": 7,
+    "Img": "img/companys/中国人寿.jpg"
+  }, {
+    "Name": "加拿大宏利金融集团",
+    "EnglishName": "Manulife Financial",
+    "BuildTime": 1887,
+    "website": "http://www.manulife.com/",
+    "Introduction": "加拿大宏利金融集团（Manulife Financial)是加拿大主要的财经服务企业，业务遍布全球19个国家和地区，并获得“国际标准普尔”授予“AAA”评级。继2004年完成加拿大历史上最大一宗跨国合并交易，成功实施对美国John Hancock恒康金融服务有限公司的合并，宏利金融成为加拿大第一、北美第二。宏利人寿保险是宏利金融集团属下的成员公司。加拿大宏利人寿保险公司1887年成立于加拿大多伦多市，现是加拿大规模最大的人寿保险公司和北美15家最大的人寿保险公司之一。",
+    "id": 8,
+    "Img": "img/companys/宏利.jpg"
+  }, {
+    "Name": "富通保险",
+    "EnglishName": "Ageas Insurance Company",
+    "BuildTime": 1830,
+    "website": "",
+    "Introduction": "具有180多年保险经验的富通集团，在泛欧交易所（布鲁塞尔 – 阿姆斯特丹）上市，且位列欧洲前20大保险公司之一。",
+    "id": 9,
+    "Img": "img/companys/富通.jpg"
+  }, {
+    "Name": "中银保险股份有限公司",
+    "EnglishName": "BOC INSURANCE",
+    "BuildTime": 2005,
+    "website": "http://www.boclife.com.hk/",
+    "Introduction": "中银保险有限公司（简称“中银保险”）是经中国保监会批准设立的全国性财产保险公司，公司成立于2005年1月5日，总部设在北京。公司主要经营财产损失保险；责任保险；信用保险和保证保险；短期健康保险和意外伤害保险；上述业务的再保险业务；国家法律、法规允许的保险资金运用业务；经中国保监会批准的其他业务。",
+    "id": 10,
+    "Img": "img/companys/中银人寿.jpg"
+  }, {
+    "Name": "中国太平保险集团有限责任公司",
+    "EnglishName": "China Taiping",
+    "BuildTime": 1929,
+    "website": "http://www.ctih.cntaiping.com/",
+    "Introduction": "中国太平保险集团有限责任公司（简称“中国太平”），1929年11月20日始创于上海，1956年移师海外，2001年重新进军中国内地市场。中国太平是四大国有金融保险集团之一，2012年列入中央管理，总部设在香港。中国太平，险种齐全，服务广泛：业务范围涵盖寿险、产险养老保险、再保险、再保险经纪及保险代理、电子商务、证券经纪、资产管理和不动产投资、养老产业投资等领域，为客户提供一站式综合金融保险服务。",
+    "id": 11,
+    "Img": "img/companys/中国太平.jpg"
+  }, {
+    "Name": "美国万通",
+    "EnglishName": "MassMutual",
+    "BuildTime": 1851,
+    "website": "http://corp.massmutualasia.com/tc/default.aspx",
+    "Introduction": "「美国万通金融集团」乃「美国万通人寿保险公司（美国万通）」及旗下各附属公司的统称，为全球最具规模的环球金融服务机构之一。",
+    "id": 12,
+    "Img": "img/companys/美国万通.jpg"
+  }, {
+    "Name": "富卫",
+    "EnglishName": "FWD",
+    "BuildTime": 1993,
+    "website": "https://www.fwd.com.hk",
+    "Introduction": "富卫业务遍布香港、澳门、泰国、印尼、菲律宾、新加坡、越南及日本。在香港，富卫提供人寿及医疗保险、一般保险、雇员福利、退休金及财务策划服务。富卫专注为客户创造崭新体验，利用数码科技，提供简单、易明和贴心的产品。富卫秉持以客为先的服务理念及方针，矢志成为泛亚洲区领先的保险公司，创造保险新体验。于香港及澳门，富卫雇有超过730名员工，为约534,000客户提供优质服务（截至2017年6月30日）。",
+    "id": 13,
+    "Img": "img/companys/富卫.jpg"
+  }, {
+    "Name": "安达人寿",
+    "EnglishName": "Chubb",
+    "BuildTime": 1882,
+    "website": "http://baoxian.chubb.com.cn/",
+    "Introduction": "安达是全球最大的上市财产及责任保险公司之一，业务遍及全球54个国家和地区。公司以其丰富的产品和服务、广阔的分销能力、雄厚的财务实力、卓越的承保和理赔专长，以及遍布全球的本地运营而著称。",
+    "id": 14,
+    "Img": "img/companys/安达人寿.jpg"
+  }, {
+    "Name": "蓝十字保险",
+    "EnglishName": "Blue Cross",
+    "BuildTime": 0,
+    "website": "www.bluecross.com.hk",
+    "Introduction": "藍十字（亞太）保險有限公司（「藍十字」）乃東亞銀行集團成員，於香港經營保險業務逾45 年，致力為個人及企業客戶提供多元化的保險產品及服務，包括醫療、旅遊及一般保險。",
+    "id": 15,
+    "Img": "img/companys/蓝十字保险.jpg"
+  }, {
+    "Name": "苏黎世保险公司",
+    "EnglishName": "Zurich",
+    "BuildTime": 1872,
+    "website": "https://www.zurich.com.hk/",
+    "Introduction": "苏黎世金融服务集团是以保险为核心业务的金融服务机构，其全球网络的分支机构和办事处遍布北美、欧洲、亚太、拉丁美洲和其它市场。苏黎世金融服务集团成立于1872年，总部设于瑞士苏黎世。现有雇员约60,000人，所服务的客户遍布在170多个国家和地区。",
+    "id": 16,
+    "Img": "img/companys/苏黎世.jpg"
+  }, {
+    "Name": "忠利保险",
+    "EnglishName": "Generali",
+    "BuildTime": 1831,
+    "website": "https://www.generali.com/",
+    "Introduction": "忠利保险公司于1831年12月在特里埃斯特成立，原名奥地利－意大利皇家特许专营忠利保险公司。1848年，正式改名为忠利保险公司。1882年，成立忠利保险集团。 忠利集团由614家公司组成（其中167家为一体化联合公司），总部设在特里埃斯特的忠利保险公司（意大利最大的保险公司）通过直接或间接的方式对下属公司进行控股。",
+    "id": 17,
+    "Img": "img/companys/忠意保险.jpg"
+  }, {
+    "Name": "昆士兰保险集团",
+    "EnglishName": "QBE",
+    "BuildTime": 1886,
+    "website": "http://qbeinsurance.chinainout.com/",
+    "Introduction": "昆士兰保险集团是世界一般保险和再保险公司20强之一，在所有主要的保险市场都有涉足。QBE在澳大利亚证券交易所上市，总部设在悉尼。目前在全球43个国家拥有超过17000名员工。",
+    "id": 18,
+    "Img": "img/companys/昆士兰保险.jpg"
+  }, {
+    "Name": "MSIG",
+    "EnglishName": "MSIG",
+    "BuildTime": 0,
+    "website": "https://www.msig.com.sg",
+    "Introduction": "MSIG保险是亚洲领先的一般保险公司之一，在新加坡已经有100多年的历史。我们作为一家独特的公司，吸收了来自几个成功合并的最佳实践和专业知识的丰富结合，今天，是MSIG控股（亚洲）私人有限公司的全资子公司。",
+    "id": 19,
+    "Img": "img/companys/MSIG.jpg"
+  }, {
+    "Name": "英杰华集团",
+    "EnglishName": "AVIVA",
+    "BuildTime": 1696,
+    "website": "https://www.aviva.co.uk/",
+    "Introduction": "英杰华集团（英文简称“AVIVA”）成立于1696年，总部设在伦敦，在2006年美国《财富》杂志公布的全球 500强企业中排名第28位，是英国最大、世界第五大保险集团。",
+    "id": 20,
+    "Img": "img/companys/英杰华.jpg"
+  }, {
+    "Name": "暂无",
+    "EnglishName": "none",
+    "BuildTime": 0,
+    "website": "",
+    "Introduction": "",
+    "id": 30,
+    "Img": ""
+  }],
   "InsuranceProducts": [{
     "Id": 30,
     "NameZHCN": "「易達終身保」",
@@ -403,7 +459,7 @@
     "NameZHCN": "享一生儲蓄壽險計劃 (9年)",
     "NameEN": "Eternity Savings Insurance Plan (9-Years Pay)",
     "TypeName": "儲蓄型人壽",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性，9年供款",
@@ -468,7 +524,7 @@
     "NameZHCN": "危疾全守衛 (優越版) ",
     "NameEN": "Crisis X Defender Supreme",
     "TypeName": "儲蓄型危疾",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性，20年供款",
@@ -533,7 +589,7 @@
     "NameZHCN": "危疾370",
     "NameEN": "Critical Illness Combo 370",
     "TypeName": "儲蓄型危疾",
-    "CompanyId": 12,
+    "CompanyId": 14,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性，22年供款",
@@ -585,7 +641,7 @@
     "NameZHCN": "星級「 倍康健」危疾保障計劃",
     "NameEN": "Super Care Critical Illness Protector",
     "TypeName": "儲蓄型危疾",
-    "CompanyId": 12,
+    "CompanyId": 14,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性，22年供款",
@@ -702,7 +758,7 @@
     "NameZHCN": "危疾全攻略",
     "NameEN": "Crisis V Cover",
     "TypeName": "儲蓄型危疾",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性，20年供款",
@@ -832,7 +888,7 @@
     "NameZHCN": "大亨醫療保險 - 銀",
     "NameEN": "Tycoon - Silver",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -845,7 +901,7 @@
     "NameZHCN": "「貴族」醫療保險 - 精選",
     "NameEN": "HealthNoble - Essential",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -871,7 +927,7 @@
     "NameZHCN": "「貴族」醫療保險 - 僅越",
     "NameEN": "HealthNoble - Premier",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -897,7 +953,7 @@
     "NameZHCN": "「貴族」醫療保險 - 尊尚",
     "NameEN": "HealthNoble - Platinum",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -962,7 +1018,7 @@
     "NameZHCN": "「三高保」醫療保險",
     "NameEN": "HealthAngel",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1001,7 +1057,7 @@
     "NameZHCN": "「三高保」醫療保險",
     "NameEN": "HealthAngel",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1027,7 +1083,7 @@
     "NameZHCN": "大亨醫療保險 - 金",
     "NameEN": "Tycoon - Gold",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1040,7 +1096,7 @@
     "NameZHCN": "衛一醫療總匯",
     "NameEN": "TheOne Medical Solution",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1066,7 +1122,7 @@
     "NameZHCN": "大亨醫療保險 - 白金",
     "NameEN": "Tycoon - Platinum",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1118,7 +1174,7 @@
     "NameZHCN": "忠意優晉醫療保障",
     "NameEN": "Prestigio",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 17,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1157,7 +1213,7 @@
     "NameZHCN": "衛一醫療總匯",
     "NameEN": "TheOne Medical Solution",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1209,7 +1265,7 @@
     "NameZHCN": "大亨醫療保險 - 金",
     "NameEN": "Tycoon - Gold",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1248,7 +1304,7 @@
     "NameZHCN": "大亨醫療保險 - 白金",
     "NameEN": "Tycoon - Platinum",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1274,7 +1330,7 @@
     "NameZHCN": "忠意優晉醫療保障",
     "NameEN": "Prestigio",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 17,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1300,7 +1356,7 @@
     "NameZHCN": "大班醫療保險",
     "NameEN": "Taipan ",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 15,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1352,7 +1408,7 @@
     "NameZHCN": "衛一醫療總匯",
     "NameEN": "TheOne Medical Solution",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 13,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1365,7 +1421,7 @@
     "NameZHCN": "忠意優晉醫療保障",
     "NameEN": "Prestigio",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 17,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1404,7 +1460,7 @@
     "NameZHCN": "「貴族」醫療保險 - 精選",
     "NameEN": "HealthNoble - Essential",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1417,7 +1473,7 @@
     "NameZHCN": "「貴族」醫療保險 - 僅越",
     "NameEN": "HealthNoble - Premier",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
@@ -1430,7 +1486,7 @@
     "NameZHCN": "「貴族」醫療保險 - 尊尚",
     "NameEN": "HealthNoble - Platinum",
     "TypeName": "高端醫療",
-    "CompanyId": 12,
+    "CompanyId": 16,
     "Desc": {
       "ShortNote": {
         "zh-TW": "假設35歳非吸煙男性",
