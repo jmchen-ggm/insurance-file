@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>保险公司列表</title>
+	<style type="text/css">
+		@import"../css/console.css";
+	</style>
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="../js/console/common.js"></script>
+	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+</head>
+<body>
+	<div style="margin-left: 20px; margin-top: 20px"><a href="create_company.html" class="button">创建保险公司</a></div>
+	<div id="company-list">
+		<ul>
+			<li v-for="compnay in companies">
+				<p>ID: {{compnay.Id}}</p>
+				<p>Name: {{compnay.Name}}</p>
+				<p>Desc: {{compnay.Desc}}</p>
+				<p>Flags: {{compnay.Flags}}</p>
+				<p>DetailData: {{compnay.DetailData}}</p>
+				<p>ThumbUrl: <a v-bind:href="compnay.ThumbUrl" style="margin-left: 10px">{{compnay.ThumbUrl}}</a></p>
+				<p><img v-bind:src="compnay.ThumbUrl"/></p>
+			</li>			
+		</ul>		
+	</div>
+	<script src="../js/console/list-company.js"></script>
+</body>
+</html>
