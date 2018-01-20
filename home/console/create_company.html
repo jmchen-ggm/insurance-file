@@ -13,18 +13,17 @@
     <h1>添加公司</h1>
     <br>
 	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/company" method="POST" class="form-body">
-	<div>公司名字</div>
-	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
-    <div>公司英文名字</div>
-    <div><textarea type="text" name="englishname" cols="100" rows="1"></textarea></div>
-    <div>公司创建时间</div>
-    <div><textarea type="text" name="buildtime" cols="100" rows="1"></textarea></div>
-    <div>公司网页</div>
-    <div><textarea type="text" name="website" cols="100" rows="1"></textarea></div>
-	<div>公司描述</div>
-	<div><textarea type="text" name="desc" cols="100" rows="3"></textarea></div>
-	<div>公司封面</div>
- 	<div><input type="file" name="uploadfile" /></div>
+	<div class="input-cell">公司名字</div>
+	<div class="input-cell"><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
+	<div class="input-cell">公司描述</div>
+	<div class="input-cell"><textarea type="text" name="desc" cols="100" rows="1"></textarea></div>
+	<div class="input-cell">公司标记</div>
+ 	<div class="input-cell"><textarea type="number" name="flags" cols="100" rows="1"></textarea></div>
+ 	<div class="input-cell">公司详情</div>
+ 	<div class="input-cell"><textarea type="text" name="detailData" cols="100" rows="3"></textarea></div>
+	<div class="input-cell" style="height: 30px;">
+ 		<span style="line-height: 30px">公司封面</span><span style="margin-left: 10px;"><input type="file" name="uploadfile" /></span>
+ 	</div>
  	<div><input type="submit" value="创建公司" /></div>
     </form>
 	<br><br>
