@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>创建保险</title>
+	<style type="text/css">
+		@import"../css/console.css";
+	</style>
+	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+</head>
+<body>
+    <br>
+    <h1>添加保险类型</h1>
+    <br>
+	<form enctype="multipart/form-data" action="http://120.78.175.235:8081/create/insurancetype" method="POST">
+	<div class="input-cell">保险类型名称</div>
+	<div class="input-cell"><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
+	<div class="input-cell">保险类型描述</div>
+ 	<div class="input-cell"><textarea type="text" name="desc" cols="100" rows="1"></textarea></div>
+ 	<div class="input-cell">保险类型标记</div>
+ 	<div class="input-cell"><textarea type="number" name="flags" cols="100" rows="1"></textarea></div>
+ 	<div class="input-cell">保险类型详情</div>
+ 	<div class="input-cell"><textarea type="text" name="detailData" cols="100" rows="3"></textarea></div>
+ 	<div class="input-cell" style="height: 30px;">
+ 		<span style="line-height: 30px">保险类型缩略图</span><span style="margin-left: 10px;"><input type="file" name="uploadfile" /></span>
+ 	</div>
+ 	<div><input type="submit" value="创建保险类型" /></div>
+	</form>
+	<br><br>
+	<a href="index.html" class="button">返回主页</a>
+
+</body>
+</html>

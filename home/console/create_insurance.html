@@ -6,6 +6,8 @@
 	<style type="text/css">
 		@import"../css/console.css";
 	</style>
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
 </head>
 <body>
@@ -17,10 +19,22 @@
 	<div><textarea type="text" name="name" cols="100" rows="1"></textarea></div>
 	<div>保险描述</div>
  	<div><textarea type="text" name="desc" cols="100" rows="1"></textarea></div>
- 	<div>保险公司ID</div>
- 	<div><textarea type="number" name="companyId" cols="100" rows="1"></textarea></div>
- 	<div>保险类型ID</div>
- 	<div><textarea type="number" name="insuranceTypeId" cols="100" rows="1"></textarea></div>
+ 	<div id="company-list">
+ 		<span>保险公司ID</span>
+ 		<select name="companyId">
+ 			<option v-for="comment in comments">
+ 				<span>{{comment.Id}}</span>
+ 			</option>
+ 		</select>
+ 	</div>
+ 	<div id="insurance-type-list">
+ 		<span>保险类型ID</span>
+ 		<select name="insuranceTypeId">
+ 			<option v-for="insuranceType in insuranceTypes">
+ 				<span>{{insuranceType.Id}}</span>
+ 			</option>
+ 		</select>
+ 	</div>
  	<div>起始年龄</div>
  	<div><textarea type="number" name="ageFrom" cols="100" rows="1"></textarea></div>
  	<div>结束年龄</div>
@@ -39,5 +53,6 @@
     </form>
 	<br><br>
 	<a href="index.html" class="button">返回主页</a>
+	<script src="../js/console/create-insurance.js"></script>
 </body>
 </html>
