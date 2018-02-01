@@ -1,0 +1,164 @@
+{
+    "CompanyList": [
+        {
+            "Id": 1, 
+            "Name": "法国安盛公司", 
+            "Desc": "法国安盛公司（AXA）是全球最大的保险集团。起初是众多互助型保险公司的机械联合企业，但现在它是当今世界上最大的一家保险公司（同德国Allianz 和荷兰ING一样），也是一个资产管理巨头。AXA在美国有子公司安盛金融公司（AXA Financial），该子公司持有联合资产管理公司（Alliance Capital Management）的绝大多数股份；同时在海外其它地方都有众多子公司。", 
+            "ThumbUrl": "img/companys/安盛.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"AXA\",\"BuildTime\":1816,\"Website\":\"http://www.axa.com/\"}"
+        }, 
+        {
+            "Id": 2, 
+            "Name": "美国友邦保险有限公司", 
+            "Desc": "美国友邦保险有限公司 （简称“友邦保险”或“AIA”）是美国国际集团（AIG）的全资附属公司，自1931年在上海创立以来，已服务亚洲地区的广大客户七十多年之久。", 
+            "ThumbUrl": "img/companys/友邦.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"American International Assurance Co\",\"BuildTime\":1919,\"Website\":\"http://www.aia.com/\"}"
+        }, 
+        {
+            "Id": 3, 
+            "Name": "英国保诚集团", 
+            "Desc": "英国保诚集团在1848年创立，当时命名为英国保诚投资信贷保险公司（Prudential Investment, Loan, and Assurance Company)，业务以人寿保险为主。英国保诚保险成立后，业务迅速发展，1890年初，便成为了英国最大的人寿保险公司，为英国人民提供周全的保障，至今仍傲踞榜首。 在二十年代，英国保诚集团业务扩展到亚洲、欧洲、加拿大、新西兰及澳洲等地，服务网络遍布全世界。", 
+            "ThumbUrl": "img/companys/英国保诚.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Prudential\",\"BuildTime\":1848,\"Website\":\"http://www.prudential.co.uk/\"}"
+        }, 
+        {
+            "Id": 4, 
+            "Name": "加拿大永明金融集团", 
+            "Desc": "加拿大永明金融集团（Sun Life Financial Services）于1865年注册成立。加拿大永明在世界各地为个人和公司客户提供广泛的储蓄、退休、养老金、人寿和健康等保险产品和服务，主要业务遍及加拿大、美国、英国和亚太地区，在世界二十多个重要市场设有办事机构，积极开展业务。加拿大永明金融是主要的国际金融服务机构，为个人及企业客户提供各类理财及保障的产品和服务。", 
+            "ThumbUrl": "img/companys/永明.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Sun Life Financial Services\",\"BuildTime\":1865,\"Website\":\"https://www.sunlife.com.hk/\"}"
+        }, 
+        {
+            "Id": 5, 
+            "Name": "美国信诺保险集团", 
+            "Desc": "美国信诺保险集团是总部设在美国的第二大国际工商保险公司，是当今世界有关保险和金融服务的主要提供者之一，服务对象包括美国与全球的个人和企业。它的前身是成立于1865年的康涅狄格大众人寿保险公司和建立于1792年的北美保险公司（美国第一家股份制保险公司）。", 
+            "ThumbUrl": "img/companys/信诺.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"CIGNA\",\"BuildTime\":1982,\"Website\":\"https://www.cigna.com/\"}"
+        }, 
+        {
+            "Id": 6, 
+            "Name": "美国大都会人寿保险公司", 
+            "Desc": "美国大都会集团创建于1868年，由一群纽约市的企业家以100,000美元筹组而成，原名为 National Union Life and Limb Insurance Company。经过五年的艰苦经营及多次重组，公司在1868年决定专注发展人寿保险业务，并针对中产阶层客户推销保险产品。由于公司的业务在被称为「Metropolitan（都会区）」的纽约市最为成功，故此以美国大都会人寿保险公司命名。2012年，大都会人寿在财富500强排名为114名，2011年排名为160名。", 
+            "ThumbUrl": "img/companys/大都会.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Metlife\",\"BuildTime\":1868,\"Website\":\"https://www.metlife.com/\"}"
+        }, 
+        {
+            "Id": 7, 
+            "Name": "中国人寿保险（集团）公司", 
+            "Desc": "中国人寿保险（集团）公司及其子公司构成了我国最大的国有金融保险集团。2013年，总保费收入达3868亿元，境内寿险业务市场份额为31.6%，总资产达24071亿元，是我国资本市场最大的机构投资者之一。连续13年入选《财富》全球500强，排名第54位；连续7年入选世界品牌500强，位列第237位、入选《中国品牌价值研究院》中国品牌500强，位列第15位。[2]  所属寿险公司继2003年12月在纽约、香港两地同步上市之后，又于2007年1月回归境内A股市场，成为内地资本市场“保险第一股”和全球第一家在纽约、香港和上海三地上市的保险公司，并已成为全球市值最大的上市寿险公司[3]  。2016年8月，中国人寿保险（集团）公司在2016中国企业500强中，排名第12。", 
+            "ThumbUrl": "img/companys/中国人寿.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"China Life\",\"BuildTime\":1949,\"Website\":\"http://www.e-chinalife.com/\"}"
+        }, 
+        {
+            "Id": 8, 
+            "Name": "加拿大宏利金融集团", 
+            "Desc": "加拿大宏利金融集团（Manulife Financial)是加拿大主要的财经服务企业，业务遍布全球19个国家和地区，并获得“国际标准普尔”授予“AAA”评级。继2004年完成加拿大历史上最大一宗跨国合并交易，成功实施对美国John Hancock恒康金融服务有限公司的合并，宏利金融成为加拿大第一、北美第二。宏利人寿保险是宏利金融集团属下的成员公司。加拿大宏利人寿保险公司1887年成立于加拿大多伦多市，现是加拿大规模最大的人寿保险公司和北美15家最大的人寿保险公司之一。", 
+            "ThumbUrl": "img/companys/宏利.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Manulife Financial\",\"BuildTime\":1887,\"Website\":\"http://www.manulife.com/\"}"
+        }, 
+        {
+            "Id": 9, 
+            "Name": "富通保险", 
+            "Desc": "具有180多年保险经验的富通集团，在泛欧交易所（布鲁塞尔 – 阿姆斯特丹）上市，且位列欧洲前20大保险公司之一。", 
+            "ThumbUrl": "img/companys/富通.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Ageas Insurance Company\",\"BuildTime\":1830,\"Website\":\"\"}"
+        }, 
+        {
+            "Id": 10, 
+            "Name": "中银保险股份有限公司", 
+            "Desc": "中银保险有限公司（简称“中银保险”）是经中国保监会批准设立的全国性财产保险公司，公司成立于2005年1月5日，总部设在北京。公司主要经营财产损失保险；责任保险；信用保险和保证保险；短期健康保险和意外伤害保险；上述业务的再保险业务；国家法律、法规允许的保险资金运用业务；经中国保监会批准的其他业务。", 
+            "ThumbUrl": "img/companys/中银人寿.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"BOC INSURANCE\",\"BuildTime\":2005,\"Website\":\"http://www.boclife.com.hk/\"}"
+        }, 
+        {
+            "Id": 11, 
+            "Name": "中国太平保险集团有限责任公司", 
+            "Desc": "中国太平保险集团有限责任公司（简称“中国太平”），1929年11月20日始创于上海，1956年移师海外，2001年重新进军中国内地市场。中国太平是四大国有金融保险集团之一，2012年列入中央管理，总部设在香港。中国太平，险种齐全，服务广泛：业务范围涵盖寿险、产险养老保险、再保险、再保险经纪及保险代理、电子商务、证券经纪、资产管理和不动产投资、养老产业投资等领域，为客户提供一站式综合金融保险服务。", 
+            "ThumbUrl": "img/companys/中国太平.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"China Taiping\",\"BuildTime\":1929,\"Website\":\"http://www.ctih.cntaiping.com/\"}"
+        }, 
+        {
+            "Id": 12, 
+            "Name": "美国万通", 
+            "Desc": "「美国万通金融集团」乃「美国万通人寿保险公司（美国万通）」及旗下各附属公司的统称，为全球最具规模的环球金融服务机构之一。", 
+            "ThumbUrl": "img/companys/美国万通.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"MassMutual\",\"BuildTime\":1851,\"Website\":\"http://corp.massmutualasia.com/tc/default.aspx\"}"
+        }, 
+        {
+            "Id": 13, 
+            "Name": "富卫", 
+            "Desc": "富卫业务遍布香港、澳门、泰国、印尼、菲律宾、新加坡、越南及日本。在香港，富卫提供人寿及医疗保险、一般保险、雇员福利、退休金及财务策划服务。富卫专注为客户创造崭新体验，利用数码科技，提供简单、易明和贴心的产品。富卫秉持以客为先的服务理念及方针，矢志成为泛亚洲区领先的保险公司，创造保险新体验。于香港及澳门，富卫雇有超过730名员工，为约534,000客户提供优质服务（截至2017年6月30日）。", 
+            "ThumbUrl": "img/companys/富卫.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"FWD\",\"BuildTime\":1993,\"Website\":\"https://www.fwd.com.hk\"}"
+        }, 
+        {
+            "Id": 14, 
+            "Name": "安达人寿", 
+            "Desc": "安达是全球最大的上市财产及责任保险公司之一，业务遍及全球54个国家和地区。公司以其丰富的产品和服务、广阔的分销能力、雄厚的财务实力、卓越的承保和理赔专长，以及遍布全球的本地运营而著称。", 
+            "ThumbUrl": "img/companys/安达人寿.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Chubb\",\"BuildTime\":1882,\"Website\":\"http://baoxian.chubb.com.cn/\"}"
+        }, 
+        {
+            "Id": 15, 
+            "Name": "蓝十字保险", 
+            "Desc": "藍十字（亞太）保險有限公司（「藍十字」）乃東亞銀行集團成員，於香港經營保險業務逾45 年，致力為個人及企業客戶提供多元化的保險產品及服務，包括醫療、旅遊及一般保險。", 
+            "ThumbUrl": "img/companys/蓝十字保险.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Blue Cross\",\"BuildTime\":0,\"Website\":\"www.bluecross.com.hk\"}"
+        }, 
+        {
+            "Id": 16, 
+            "Name": "苏黎世保险公司", 
+            "Desc": "苏黎世金融服务集团是以保险为核心业务的金融服务机构，其全球网络的分支机构和办事处遍布北美、欧洲、亚太、拉丁美洲和其它市场。苏黎世金融服务集团成立于1872年，总部设于瑞士苏黎世。现有雇员约60,000人，所服务的客户遍布在170多个国家和地区。", 
+            "ThumbUrl": "img/companys/苏黎世.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Zurich\",\"BuildTime\":1872,\"Website\":\"https://www.zurich.com.hk/\"}"
+        }, 
+        {
+            "Id": 17, 
+            "Name": "忠利保险", 
+            "Desc": "忠利保险公司于1831年12月在特里埃斯特成立，原名奥地利－意大利皇家特许专营忠利保险公司。1848年，正式改名为忠利保险公司。1882年，成立忠利保险集团。 忠利集团由614家公司组成（其中167家为一体化联合公司），总部设在特里埃斯特的忠利保险公司（意大利最大的保险公司）通过直接或间接的方式对下属公司进行控股。", 
+            "ThumbUrl": "img/companys/忠意保险.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"Generali\",\"BuildTime\":1831,\"Website\":\"https://www.generali.com/\"}"
+        }, 
+        {
+            "Id": 18, 
+            "Name": "昆士兰保险集团", 
+            "Desc": "昆士兰保险集团是世界一般保险和再保险公司20强之一，在所有主要的保险市场都有涉足。QBE在澳大利亚证券交易所上市，总部设在悉尼。目前在全球43个国家拥有超过17000名员工。", 
+            "ThumbUrl": "img/companys/昆士兰保险.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"QBE\",\"BuildTime\":1886,\"Website\":\"http://qbeinsurance.chinainout.com/\"}"
+        }, 
+        {
+            "Id": 19, 
+            "Name": "MSIG", 
+            "Desc": "MSIG保险是亚洲领先的一般保险公司之一，在新加坡已经有100多年的历史。我们作为一家独特的公司，吸收了来自几个成功合并的最佳实践和专业知识的丰富结合，今天，是MSIG控股（亚洲）私人有限公司的全资子公司。", 
+            "ThumbUrl": "img/companys/MSIG.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"MSIG\",\"BuildTime\":0,\"Website\":\"https://www.msig.com.sg\"}"
+        }, 
+        {
+            "Id": 20, 
+            "Name": "英杰华集团", 
+            "Desc": "英杰华集团（英文简称“AVIVA”）成立于1696年，总部设在伦敦，在2006年美国《财富》杂志公布的全球 500强企业中排名第28位，是英国最大、世界第五大保险集团。", 
+            "ThumbUrl": "img/companys/英杰华.jpg", 
+            "Flags": 0, 
+            "DetailData": "{\"EnglishName\":\"AVIVA\",\"BuildTime\":1696,\"Website\":\"https://www.aviva.co.uk/\"}"
+        }
+    ]
+}
