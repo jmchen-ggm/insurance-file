@@ -1,0 +1,22 @@
+{
+    "ConsultantList":[
+        {  
+            "Id":1,
+            "Name":"崔晓伟",
+            "Desc":"毕业于香港科技大学，硕士学历",
+			"Score" : 95,
+            "ThumbUrl":"img/consultants/cuixiaowei.jpg",
+            "Flags":0,
+            "DetailData":""
+        },
+        {  
+            "Id":2,
+            "Name":"马瑶",
+            "Desc":"毕业于香港中文大学，硕士学历",
+			"Score" : 98,
+            "ThumbUrl":"img/consultants/mayao.jpg",
+            "Flags":0,
+            "DetailData":""
+        }
+    ]
+}
